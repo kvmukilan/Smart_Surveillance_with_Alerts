@@ -1,5 +1,5 @@
-TELEGRAM_BOT_TOKEN = "7880567137:AAFHxSwIAiw6js6VwbTQ3iDFFAbmO9g5qRo"
-TELEGRAM_CHAT_ID = "831873917"
+TELEGRAM_BOT_TOKEN = "Enter your Bot token"
+TELEGRAM_CHAT_ID = "Enter your chat id"
 
 LOG_CSV = "./data/logs.csv"
 SNAPSHOT_DIR = "./data/snapshots"
